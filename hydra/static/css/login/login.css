@@ -1,0 +1,23 @@
+html{
+    font:12px "Ubuntu", Arial, Verdana;
+}
+
+body{
+    width:100%;
+    text-align:center;
+}
+#content{
+    width:300px;
+    margin:0 auto;
+    text-align:left;
+}
+#loginform{
+    border:1px solid #ccc;
+    border-radius:1em;
+    text-align:center;
+    padding:1em;
+}
+.errorlist{
+    list-style-type:none;
+    color:#f00;
+}
